@@ -1,6 +1,6 @@
 {
     "name": "hedger/laravel-envicon",
-    "description": "Use a different favicon depending on your current environment",
+    "description": "Use a different favicon depending on your current runtime environment",
     "homepage": "https://github.com/nhedger/envicon",
     "license": "MIT",
     "authors": [
