@@ -1,16 +1,14 @@
 # Laravel Envicon
 
 <p align="center">
-
-![Screenshot][]
-
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-![Build Status][ico-build]
-
+    <img src=".github/screenshot.png"
 </p>
 
-
+<p align="center">
+<a href="https://packagist.org/packages/hedger/laravel-envicon"><img src="https://img.shields.io/packagist/v/hedger/laravel-envicon.svg?style=flat-square" alt="Latest Version on Packagist"></a>
+<a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License"></a>
+<a href="https://github.com/nhedger/laravel-envicon/actions?query=workflow%3ATest"><img src="https://img.shields.io/github/workflow/status/nhedger/laravel-envicon/Test/master?style=flat-square" alt="Build Status"></a>
+</p>
 
 This packages allows you to display a custom favicon depending on your
 runtime environment. This makes it easy to identify immediately on which
