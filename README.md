@@ -1,7 +1,8 @@
 # Laravel Envicon
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
+[![Software License][ico-license]](LICENSE.md)  
+![Build Status][ico-build]
 
 This packages allows you to display a custom favicon depending on your
 runtime environment. This makes it easy to identify immediately on which
@@ -60,6 +61,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/hedger/laravel-envicon.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-build]: https://img.shields.io/github/workflow/status/nhedger/laravel-envicon/Test/master?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/hedger/laravel-envicon
 
