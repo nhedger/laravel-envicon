@@ -26,7 +26,15 @@ Once the package is installed, you'll need to **publish the configuration**
 to link your environments to custom favicons.
 
 ```shell script
-php artisan vendor:publish --tag=config --provider="Hedger\Envicon\ServiceProvider"
+php artisan vendor:publish --tag=envicon-config
+```
+
+If you want to use the default envicons provided by this package, run
+the following command that will copy them in your `public/favicons`
+folder.
+
+```shell script
+php artisan vendor:publish --tag=envicon-favicons
 ```
 
 ## Usage
