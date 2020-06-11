@@ -28,7 +28,7 @@ jobs:
         tools: phpunit
         
     - name: Install dependencies
-      run: composer install --prefer-dist
+      run: composer install --prefer-dist --no-interaction
     
     - name: Run Test Suite
       run: composer test
