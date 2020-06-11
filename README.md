@@ -4,11 +4,13 @@
 
 ![Screenshot][]
 
-</p>
-
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 ![Build Status][ico-build]
+
+</p>
+
+
 
 This packages allows you to display a custom favicon depending on your
 runtime environment. This makes it easy to identify immediately on which
