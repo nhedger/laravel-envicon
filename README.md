@@ -1,7 +1,7 @@
 # Laravel Envicon
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)  
+[![Software License][ico-license]](LICENSE.md)
 ![Build Status][ico-build]
 
 This packages allows you to display a custom favicon depending on your
