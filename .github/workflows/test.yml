@@ -25,10 +25,9 @@ jobs:
       with:
         php-version: ${{ matrix.php-versions }}
         coverage: xdebug        
-        tools: phpunit
         
     - name: Install dependencies
       run: composer install --prefer-dist --no-interaction
     
     - name: Run Test Suite
-      run: phpunit
+      run: "./vendor/bin/phpunit"
