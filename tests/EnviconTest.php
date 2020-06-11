@@ -10,7 +10,7 @@ class EnviconTest extends TestCase
     {
         return [
             ['local'],
-            ['testing'],
+            ['staging'],
             ['production']
         ];
     }

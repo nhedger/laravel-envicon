@@ -12,7 +12,7 @@ return [
     | given path must be relative to the public/ folder.
     |
     */
-    'default_icon' => 'favicons/production.svg',
+    'default_favicon' => 'favicons/production.svg',
 
     /*
     |--------------------------------------------------------------------------
