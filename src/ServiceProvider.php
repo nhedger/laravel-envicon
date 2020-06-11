@@ -12,7 +12,11 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__ . '/../config/envicon.php' => config_path('envicon.php')
-            ], 'config');
+            ], ['envicon-config']);
+
+            $this->publishes([
+                __DIR__ . '/../resources/favicons/' => public_path('favicons')
+            ], ['envicon-favicons']);
         }
     }
 
