@@ -12,7 +12,7 @@ return [
     | given path must be relative to the public/ folder.
     |
     */
-    'default_icon' => 'favicons/favicon.production.svg',
+    'default_icon' => 'favicons/production.svg',
 
     /*
     |--------------------------------------------------------------------------
@@ -27,9 +27,9 @@ return [
     |
     */
     'environments' => [
-        'local'      => 'favicons/favicon.local.svg',
-        'testing'    => 'favicons/favicon.testing.svg',
-        'production' => 'favicons/favicon.production.svg'
+        'local'      => 'favicons/local.svg',
+        'staging'    => 'favicons/staging.svg',
+        'production' => 'favicons/production.svg'
     ]
 
 ];
