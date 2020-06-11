@@ -1,7 +1,9 @@
 # Laravel Envicon
 
 <p align="center">
+
 ![Screenshot][]
+
 </p>
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
