@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/laravel-%5E6.0%20%7C%7C%20%5E7.0%20%7C%7C%20%5E8.0-FF2D20.svg?style=flat-square" alt="Support Laravel versions">
 <a href="https://packagist.org/packages/hedger/laravel-envicon"><img src="https://img.shields.io/packagist/v/hedger/laravel-envicon.svg?style=flat-square" alt="Latest Version on Packagist"></a>
 <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License"></a>
 <a href="https://github.com/nhedger/laravel-envicon/actions?query=workflow%3ATest"><img src="https://img.shields.io/github/workflow/status/nhedger/laravel-envicon/Test/master?style=flat-square" alt="Build Status"></a>
