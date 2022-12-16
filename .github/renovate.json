@@ -7,5 +7,11 @@
             ],
             "rangeStrategy": "bump"
         },
+        {
+            "matchDepTypes": [
+                "require-dev"
+            ],
+            "rangeStrategy": "pin"
+        },
     ],
 }
