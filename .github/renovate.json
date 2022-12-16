@@ -1,5 +1,3 @@
-
-
 {
-    "extends": ["config:base", ":pinOnlyDevDependencies"],
+    "extends": ["config:base", ":pinOnlyDevDependencies"]
 }
